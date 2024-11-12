@@ -59,7 +59,6 @@ fun LoginScreen(context: Context, databaseHelper: UserDatabaseHelper) {
                 )
             )
     ) {
-        // Create a Column to stack the image and form below it
         Column(
             modifier = Modifier
                 .fillMaxSize()
@@ -106,9 +105,13 @@ fun LoginScreen(context: Context, databaseHelper: UserDatabaseHelper) {
                         modifier = Modifier
                             .fillMaxWidth()
                             .padding(vertical = 4.dp),
+                        textStyle = MaterialTheme.typography.body1.copy(
+                            color = Color(0xFFF06292) // Vibrant pink color
+                        ),
                         colors = TextFieldDefaults.outlinedTextFieldColors(
                             focusedBorderColor = Color(0xFFAB47BC),
-                            cursorColor = Color(0xFF6A1B9A)
+                            cursorColor = Color(0xFF6A1B9A),
+                            unfocusedBorderColor = Color(0xFF6A1B9A)
                         )
                     )
 
@@ -120,9 +123,13 @@ fun LoginScreen(context: Context, databaseHelper: UserDatabaseHelper) {
                         modifier = Modifier
                             .fillMaxWidth()
                             .padding(vertical = 4.dp),
+                        textStyle = MaterialTheme.typography.body1.copy(
+                            color = Color(0xFFF06292) // Vibrant pink color
+                        ),
                         colors = TextFieldDefaults.outlinedTextFieldColors(
                             focusedBorderColor = Color(0xFFAB47BC),
-                            cursorColor = Color(0xFF6A1B9A)
+                            cursorColor = Color(0xFF6A1B9A),
+                            unfocusedBorderColor = Color(0xFF6A1B9A)
                         )
                     )
 
@@ -186,4 +193,3 @@ fun LoginScreen(context: Context, databaseHelper: UserDatabaseHelper) {
         }
     }
 }
-
