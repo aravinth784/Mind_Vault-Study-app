@@ -1,14 +1,14 @@
-Step1:Resgiter the details if you are new user
+Step1:Login to our app'Mind Vault'
 
 
-Step2: After registering, login into the home page with registered details.
+Step2:If you are a new user then register yourself
 
 
-Step3: Click login to access the course card page.
+Step3:Register with username,password,email and click register.
 
 
-Step4:Choose the course to get the study material of the course.
+Step4:After registering,Give the details in the login page and click login.
 
 
-Step5:Then complete the courses.
+Step5:Then you can access and learn the courses from our app.
 
