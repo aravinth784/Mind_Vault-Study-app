@@ -1,13 +1,13 @@
-Step1:Login to our app'Mind Vault'
+Step1:Login into the home page in our 'MindVault' app.
 
 
-Step2:If you are a new user then register yourself
+Step2:Register the details if you are a new user.
 
 
-Step3:Register with username,password,email and click register.
+Step3:Give the username,password,email to register.
 
 
-Step4:After registering,Give the details in the login page and click login.
+Step4:After this ,login to access the course.
 
 
 Step5:Then you can access and learn the courses from our app.
