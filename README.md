@@ -1,14 +1,13 @@
-Step1:Register as a user.
+Step1:Login into the home page with username and password.
 
 
-Step2: login to our application
+Step2: If you are a new user,then click register.
 
 
-Step3: if you're a new user register with user name , email id and password 
+Step3:Register using username,password,Email ID.
 
 
-Step4:Once the registration is successful, Go to Step2 
+Step4:After registering,login to the home page to access the courses.
 
 
-Step5:Then access the courses you want.
-
+Step5:Then access the course you want and complete the course.
